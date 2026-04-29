@@ -2,7 +2,7 @@
 
 > A lightweight, user-friendly Q&A forum platform built for collaborative learning and structured knowledge sharing.
 
-## 📋 Overview
+## Overview
 
 **StackIt** is a modern Q&A forum platform designed with simplicity and core functionality in mind. It provides a clean, intuitive interface for users to ask questions, share knowledge, and collaborate with the community. Whether you're looking for help with programming, general knowledge, or specialized topics, StackIt offers a streamlined experience for meaningful discussions.
 
@@ -10,7 +10,7 @@ Built with modern web technologies, StackIt prioritizes user experience, accessi
 
 ---
 
-## ✨ Current Features
+## Current Features
 
 - **Ask & Answer Questions** - Users can post questions and provide answers in a structured format
 - **Rich Text Editor** - Format your questions and answers with a powerful rich text editor (React Quill integration)
@@ -21,7 +21,7 @@ Built with modern web technologies, StackIt prioritizes user experience, accessi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technology |
 |----------|------------|
@@ -41,7 +41,7 @@ Built with modern web technologies, StackIt prioritizes user experience, accessi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -85,7 +85,7 @@ npm eject
 
 ---
 
-## 📈 Future Enhancements & Roadmap
+## Future Enhancements & Roadmap
 
 We're actively working on expanding StackIt with exciting features:
 
@@ -106,7 +106,7 @@ We're actively working on expanding StackIt with exciting features:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to help improve StackIt:
 
@@ -118,29 +118,16 @@ We welcome contributions from the community! If you'd like to help improve Stack
 
 ---
 
-## 📝 Team Information
-
-- **Team Name:** Team3946
-- **Team Email:** sinhadivya64448@gmail.com
-
----
-
-## 📄 License
+## License
 
 This project is open source and available under the MIT License.
 
 ---
 
-## 🌟 Show Your Support
+## Support & Feedback
 
-If you find StackIt helpful, please consider giving it a star! Your support helps us continue improving the platform.
-
----
-
-## 📞 Support & Feedback
-
-For bug reports, feature requests, or general feedback, please open an issue on GitHub or reach out to the team email.
+For bug reports, feature requests, or general feedback, please open an issue on GitHub.
 
 ---
 
-**Happy learning and collaborating with StackIt! 🚀**
+**Happy learning and collaborating with StackIt!**
